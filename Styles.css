@@ -1,0 +1,100 @@
+
+.main_page {
+  color: black;
+  font-size: 24px; /* Размер шрифта*/
+  font-family: Times, sans-serif; /* Семейство, очертание*/
+  text-align: center; /* Выравнивание текста*/
+
+    margin: 0px 0px 0px 0px;  /* Отступы вверху 20 справа 0 снизу 0 слева 0*/
+    padding: 10px;           /* Добавляем поля */
+    
+    background: white; /* Цвет фона */ 
+    border: 0px solid green; /* Параметры линии внизу */
+    /*bottom: 2px solid green;*/
+}
+
+.main_text{
+	color: black;
+	font-family: Times, normal;
+	text-align: left;  /* выравнивание текста*/
+	font-size: 140%;
+
+	margin: 0px 0px 0px 52px; /* вверху 20 справа 0 снизу 0 слева 0*/
+	padding: 10px;
+}
+
+.spisok{
+
+	color: black;
+  font-size: 105%;
+  font-family: Times, normal;
+  text-align: left;
+
+    margin: 0px 50px 0px 50px;
+    padding:15px; /* Добавляем поля */
+    
+    /*margin: 20px; /* Убираем отступы у параграфа */
+    background: white; /* Цвет фона */ 
+    border-top: 2px solid grey;
+    border-bottom: 2px solid grey;
+    border-left:0px solid;
+    border-right: 0px solid;
+    /*bottom: 2px solid green;*/
+
+}
+
+.style1{
+
+  color: black;
+  font-size: 104%;
+  font-family: Times, normal;
+  text-align: left;
+
+    margin: 0px 50px 0px 50px;
+    padding:10px; /* Добавляем поля */
+    
+    /*margin: 20px; /* Убираем отступы у параграфа */
+    background: white; /* Цвет фона */ 
+    border-top: 0px solid grey;
+    border-bottom: 2px solid grey;
+    border-left:0px solid;
+    border-right: 0px solid;
+
+}
+
+.style2{
+
+  color: black;
+  font-size: 104%;
+  font-family: Times, normal;
+  text-align: left;
+
+    margin: 0px 0px 0px 52px;
+    padding:10px; /* Добавляем поля */
+    
+    /*margin: 20px; /* Убираем отступы у параграфа */
+    background: white; /* Цвет фона */ 
+    border-top: 0px solid grey;
+    border-bottom: 0px solid grey;
+    border-left:0px solid;
+    border-right: 0px solid;
+
+}
+
+ul,li{
+	margin: 0px 40px 0px 186px;
+	background: white;
+	padding: 1px; 
+
+}
+
+p{
+	margin: 0px 40px 0px 340px;
+	color: black;
+  font-size: 105%;
+  font-family: Times, normal;
+  text-align: left;
+  padding: 0px;
+
+}
+
